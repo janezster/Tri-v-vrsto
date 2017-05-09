@@ -1,2 +1,4 @@
 # Tri-v-vrsto
-Projektna naloga za UVP
+##Prvi teden
+-nastavimo Git
+-ustvarimo bdfkla
